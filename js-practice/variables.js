@@ -20,4 +20,5 @@
 let number = 1;
 
 // 2. Создать переменную, в которой будет храниться строка с названием какого-нибудь города.
-let string = "Moscow";
+let city = "Moscow";
+console.log(city);
